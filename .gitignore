@@ -1,7 +1,0 @@
-# IntelliJ
-.idea
-*.iml
-out
-lib
-.mvn
-target
